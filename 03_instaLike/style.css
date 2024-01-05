@@ -42,4 +42,5 @@ body {
     transform: translate(-50%,-50%) scale(0);
     opacity: 0;
     transition: transform ease 0.5s;
+    
 } 

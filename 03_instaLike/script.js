@@ -13,6 +13,5 @@ con.addEventListener("dblclick", function () {
     setTimeout(function () {
         love.style.transform = "translate(-50%,-50%) scale(0)"
     }, 4000);
-    // console.log("hello")
 
 });
